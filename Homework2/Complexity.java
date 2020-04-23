@@ -1,4 +1,4 @@
-//I pledge my honor that I have abided by the Stevens Honor Code-Shivam Sheth
+//I pledge my honor that I have abided by the Stevens Honor Code
 public class Complexity {
 
     public static void method1(int n) {// n^2
