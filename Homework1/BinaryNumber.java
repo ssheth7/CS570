@@ -1,4 +1,4 @@
-//Shivam Sheth
+
 //I pledge my honor that I have abided by the Steven's Honor Code
 
 public class BinaryNumber{
